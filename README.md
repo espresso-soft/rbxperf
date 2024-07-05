@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/pizzaboxer/bloxstrap/main/Bloxstrap/Resources/Icon2022.ico" width="24" alt="Roblox"> rbxperf <img src="https://raw.githubusercontent.com/pizzaboxer/bloxstrap/main/Images/Bloxstrap.png" width="24" alt="Bloxstrap"> </h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/pizzaboxer/bloxstrap/main/Bloxstrap/Resources/Icon2022.ico" width="24" alt="Roblox"> FastFlags Presets <img src="https://raw.githubusercontent.com/pizzaboxer/bloxstrap/main/Images/Bloxstrap.png" width="24" alt="Bloxstrap"> </h1>
 
 > [!CAUTION]
 > FastFlags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
@@ -6,6 +6,7 @@
 #### Version: `1.0.0 [R]`
 * **Initial Release**
 * **Submit an issue if you need help!**
+* **Want to add your preset? Fork and make a PR!**
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -26,9 +27,9 @@
 
 [Watch a Video Tutorial](https://streamable.com/rk5an6)
 
-<h3 align="center"><a href="https://github.com/RobloxFastFlags/FastFlags-Collective">View Full List</a><h3>
+<h1 align="center">RBXPERF Presets</h1>
 
-<h3 align="center">RBXPERF Presets</h3>
+<h4 align="center"><a href="https://github.com/RobloxFastFlags/FastFlags-Collective">View Full List</a><h3>
 
 ### V1
 ###### Very low quality for performance
@@ -78,10 +79,11 @@
 
 <h1 align="center">Community Presets</h1>
 
-<h4 align="center">We are not accepting performance FastFlags that aren't listed or doesn't do anything</h4>
+<h4 align="center">We are not accepting performance presets with FastFlags doesn't do anything</h4>
 
 ### absolutely kill your game quality with fflags known to me
 ##### @dynamitebumblemouth
+<a href="https://discord.com/users/833240476311486495"> <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0b5493894cf60b300587_full_logo_white_RGB.svg" width="86">
 ```json
 {
     "FFlagDisablePostFx": "True",
