@@ -29,7 +29,7 @@
 
 <h1 align="center">RBXPERF Presets</h1>
 
-<h4 align="center"><a href="https://github.com/RobloxFastFlags/FastFlags-Collective">View Full List</a><h3>
+<h4 align="center"><a href="https://github.com/collectivists/rbxflags">View Full List</a><h3>
 
 ### V1
 ###### Very low quality for performance
