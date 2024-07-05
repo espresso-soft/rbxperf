@@ -3,7 +3,7 @@
 > [!CAUTION]
 > FastFlags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
 
-#### Version: `1.0.0 [R]`
+#### Version: `1.0.0` `[R]`
 * **Initial Release**
 * **Submit an issue if you need help!**
 * **Want to add your preset? Fork and make a PR!**
