@@ -58,7 +58,7 @@
     "DFIntMaxFrameBufferSize": "4",
     "FIntTerrainArraySliceSize": "4",
     "DFIntTextureCompositorActiveJobs": "0",
-    "FIntDebugTextureManagerSkipMips": "-2147483647",
+    "FIntDebugTextureManagerSkipMips": "8",
     "FIntFRMMinGrassDistance": "0",
     "FIntFRMMaxGrassDistance": "0",
     "FIntRenderGrassDetailStrands": "0",
