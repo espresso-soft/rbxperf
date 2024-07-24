@@ -3,8 +3,8 @@
 > [!CAUTION]
 > FastFlags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
 
-#### Version: `1.0.0` `[R]`
-* **Initial Release**
+#### Version: `2.0.0` `[UPDATE]`
+* **V2 Release**
 * **Submit an issue if you need help!**
 * **Want to add your preset? Fork and make a PR!**
 
@@ -75,6 +75,60 @@
     "GuiHidingApiSupport2": "True",
     "FIntFullscreenTitleBarTriggerDelayMillis": "3600000"
 }
+```
+### V2
+```json
+    "FFlagTaskSchedulerLimitTargetFpsTo2402": "False",
+    "DFIntTaskSchedulerTargetFps": "9999",
+    "FFlagRenderFixFog": "True",
+    "FFlagDebugCheckRenderThreading": "True",
+    "FFlagRenderDebugCheckThreading2": "True",
+    "FIntRenderShadowIntensity": "0",
+    "DFIntCullFactorPixelThresholdShadowMapHighQuality": "2147483647",
+    "DFIntCullFactorPixelThresholdShadowMapLowQuality": "2147483647",
+    "DFFlagDisableDPIScale": "True",
+    "FFlagCommitToGraphicsQualityFix": "True",
+    "FFlagFixGraphicsQuality": "True",
+    "FFlagGlobalWindRendering": "False",
+    "FFlagGlobalWindActivated": "False",
+    "FIntRenderLocalLightUpdatesMax": "6",
+    "FIntRenderLocalLightUpdatesMin": "4",
+    "FIntRenderLocalLightFadeInMs": "0",
+    "FFlagDisablePostFx": "True",
+    "FFlagNewLightAttenuation": "True"
+    "FFlagDebugForceFSMCPULightCulling": "True",
+    "DFIntMaxFrameBufferSize": "6",
+    "DFFlagTextureQualityOverrideEnabled": "True",
+    "DFIntTextureQualityOverride": "3"
+    "FIntFRMMinGrassDistance": "0",
+    "FIntFRMMaxGrassDistance": "0",
+    "FIntRenderGrassDetailStrands": "0",
+    "FIntRenderGrassHeightScaler": "0"
+    "FIntDebugForceMSAASamples": "0"
+    "FFlagEnableCapturesHotkeyExperiment_v4": "False"
+    "FFlagGameBasicSettingsFramerateCap5": "False",
+    "FFlagUserShowGuiHideToggles": "True",
+    "GuiHidingApiSupport2": "True",
+    "FIntFullscreenTitleBarTriggerDelayMillis": "3600000",
+    "DFIntTimestepArbiterThresholdCFLThou": "300",
+    "FFlagAdServiceEnabled": "False",
+    "FFlagDebugDisableTelemetryEphemeralCounter": "True",
+    "FFlagDebugDisableTelemetryEphemeralStat": "True",
+    "FFlagDebugDisableTelemetryEventIngest": "True",
+    "FFlagDebugDisableTelemetryPoint": "True",
+    "FFlagDebugDisableTelemetryV2Counter": "True",
+    "FFlagDebugDisableTelemetryV2Event": "True",
+    "FFlagDebugDisableTelemetryV2Stat": "True",
+    "DFIntDefaultTimeoutTimeMs": "10000",
+    "FFlagEnableQuickGameLaunch": "True",
+    "DFIntAnimationLodFacsDistanceMin": "0",
+    "DFIntAnimationLodFacsDistanceMax": "0",
+    "DFIntAnimationLodFacsVisibilityDenominator": "0",
+    "FFlagHandleAltEnterFullscreenManually": "False",
+    "FIntRobloxGuiBlurIntensity": "0",
+    "FFlagErrorPromptResizesHeight": "False",
+    "FFlagNewCameraControls": "True",
+    "DFIntS2PhysicsSenderRate": "10000"
 ```
 
 <h1 align="center">Community Presets</h1>
