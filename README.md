@@ -131,7 +131,7 @@
     "DFIntS2PhysicsSenderRate": "10000"
 ```
 
-#### I don't see a difference between these two, Please don't blindly paste Fast Flags that you don't know what to do & Don't buy those "FPS" & "PING" flags.
+#### I don't see a difference between these two, Please don't blindly paste Fast Flags that you don't know what they do & Don't buy those "FPS" & "PING" flags.
 
 ##### (V1 First SS V2 Second SS)
 
