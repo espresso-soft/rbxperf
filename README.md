@@ -95,20 +95,20 @@
     "FIntRenderLocalLightUpdatesMin": "4",
     "FIntRenderLocalLightFadeInMs": "0",
     "FFlagDisablePostFx": "True",
-    "FFlagNewLightAttenuation": "True"
+    "FFlagNewLightAttenuation": "True",
     "FFlagDebugForceFSMCPULightCulling": "True",
     "DFIntMaxFrameBufferSize": "6",
     "DFFlagTextureQualityOverrideEnabled": "True",
-    "DFIntTextureQualityOverride": "3"
+    "DFIntTextureQualityOverride": "3",
     "FIntFRMMinGrassDistance": "0",
     "FIntFRMMaxGrassDistance": "0",
     "FIntRenderGrassDetailStrands": "0",
-    "FIntRenderGrassHeightScaler": "0"
-    "FIntDebugForceMSAASamples": "0"
-    "FFlagEnableCapturesHotkeyExperiment_v4": "False"
+    "FIntRenderGrassHeightScaler": "0",
+    "FIntDebugForceMSAASamples": "0",
+    "FFlagEnableCapturesHotkeyExperiment_v4": "False",
     "FFlagGameBasicSettingsFramerateCap5": "False",
     "FFlagUserShowGuiHideToggles": "True",
-    "GuiHidingApiSupport2": "True",
+    "FFlagGuiHidingApiSupport2": "True",
     "FIntFullscreenTitleBarTriggerDelayMillis": "3600000",
     "DFIntTimestepArbiterThresholdCFLThou": "300",
     "FFlagAdServiceEnabled": "False",
