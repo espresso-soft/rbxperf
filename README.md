@@ -131,6 +131,13 @@
     "DFIntS2PhysicsSenderRate": "10000"
 ```
 
+#### I don't see a difference between these two, Please don't blindly paste Fast Flags that you don't know what to do & Don't buy those "FPS" & "PING" flags.
+
+##### (V1 First SS V2 Second SS)
+
+![image](https://github.com/user-attachments/assets/2a3c90fd-92fc-4231-948f-59559ecdc2e9)
+![image](https://github.com/user-attachments/assets/8aea5195-fe3a-4b5e-bb06-8fe1839d2860)
+
 <h1 align="center">Community Presets</h1>
 
 <h4 align="center">We are not accepting performance presets with FastFlags doesn't do anything</h4>
