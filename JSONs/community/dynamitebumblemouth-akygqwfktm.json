@@ -9,7 +9,6 @@
     "DFIntDebugFRMQualityLevelOverride": "1",
     "DFFlagDebugPauseVoxelizer": "True",
     "DFFlagDebugRenderForceTechnologyVoxel": "True",
-    "FFlagGlobalWindRendering": "False",
     "FIntRenderShadowIntensity": "0",
     "FIntRenderShadowmapBias": "1",
     "FIntDebugForceMSAASamples": "-1",
