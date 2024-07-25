@@ -47,7 +47,6 @@
     "FFlagCommitToGraphicsQualityFix": "True",
     "FFlagFixGraphicsQuality": "True",
     "FFlagGlobalWindRendering": "False",
-    "FFlagGlobalWindActivated": "False",
     "FIntRenderLocalLightUpdatesMax": "8",
     "FIntRenderLocalLightUpdatesMin": "6",
     "FIntRenderLocalLightFadeInMs": "-1",
@@ -78,6 +77,7 @@
 ```
 ### V2
 ```json
+{
     "FFlagTaskSchedulerLimitTargetFpsTo2402": "False",
     "DFIntTaskSchedulerTargetFps": "9999",
     "FFlagRenderFixFog": "True",
@@ -89,8 +89,6 @@
     "DFFlagDisableDPIScale": "True",
     "FFlagCommitToGraphicsQualityFix": "True",
     "FFlagFixGraphicsQuality": "True",
-    "FFlagGlobalWindRendering": "False",
-    "FFlagGlobalWindActivated": "False",
     "FIntRenderLocalLightUpdatesMax": "6",
     "FIntRenderLocalLightUpdatesMin": "4",
     "FIntRenderLocalLightFadeInMs": "0",
@@ -103,9 +101,7 @@
     "FIntFRMMinGrassDistance": "0",
     "FIntFRMMaxGrassDistance": "0",
     "FIntRenderGrassDetailStrands": "0",
-    "FIntRenderGrassHeightScaler": "0",
     "FIntDebugForceMSAASamples": "0",
-    "FFlagEnableCapturesHotkeyExperiment_v4": "False",
     "FFlagGameBasicSettingsFramerateCap5": "False",
     "FFlagUserShowGuiHideToggles": "True",
     "FFlagGuiHidingApiSupport2": "True",
@@ -129,6 +125,7 @@
     "FFlagErrorPromptResizesHeight": "False",
     "FFlagNewCameraControls": "True",
     "DFIntS2PhysicsSenderRate": "10000"
+}
 ```
 
 #### I don't see a difference between these two, Please don't blindly paste Fast Flags that you don't know what they do & Don't buy those "FPS" & "PING" flags.
@@ -157,7 +154,6 @@
     "DFIntDebugFRMQualityLevelOverride": "1",
     "DFFlagDebugPauseVoxelizer": "True",
     "DFFlagDebugRenderForceTechnologyVoxel": "True",
-    "FFlagGlobalWindRendering": "False",
     "FIntRenderShadowIntensity": "0",
     "FIntRenderShadowmapBias": "1",
     "FIntDebugForceMSAASamples": "-1",
